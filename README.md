@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rutvikkumar841
-- 👀 I’m interested in programming and worked on java,c#,python and react native and have 1 year of experience in c# and .net framework
+- 👀 I’m interested in programming and worked on java,c#,python and react native and have 1 year of experience in c# and .net framework and currently working as c# developer
 - 🌱 I’m currently learning react native and machine learning 
 - 📫 How to reach me ... you can contact me using my email address patelrutvik99@gmail.com
 
